@@ -9,6 +9,7 @@ The desktop becomes black and parts are "illuminated" by a randomly moving light
 1. [Microsoft Documentation - Handling Screen Savers](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library).
 2. [Microsoft Documentation - Screen Saver command-line arguments](https://docs.microsoft.com/en-us/troubleshoot/windows/win32/screen-saver-command-line).
 3. [Writing a Win32 Screen Saver](http://esaro.se/gamla/savers/sshow.html).
+4. [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software).
 
 # Leaflet.themeControls
 
