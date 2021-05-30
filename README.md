@@ -6,7 +6,7 @@ The desktop becomes black and parts are "illuminated" by a randomly moving light
 
 # References
 
-[Microsoft](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library)
+[Microsoft Documentation - Handling Screen Savers](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library).
 
 # Leaflet.themeControls
 
