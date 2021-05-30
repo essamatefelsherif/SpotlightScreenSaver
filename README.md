@@ -15,7 +15,7 @@ The desktop becomes dark/black and parts are "illuminated" by a randomly moving 
 
 In order to use this plugin, 
 
-<div><a href="https://essamatefelsherif.github.io/SptlightScreenSaver/ContextMenu.jpg" title="Ancient Egypt Theme"><img src="ContextMenu.jpg"></a></div>
+<div><img src="ContextMenu.jpg"></div>
 
 
 # Leaflet.themeControls
