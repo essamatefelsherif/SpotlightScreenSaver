@@ -11,6 +11,13 @@ The desktop becomes dark/black and parts are "illuminated" by a randomly moving 
 3. [Writing a Win32 Screen Saver](http://esaro.se/gamla/savers/sshow.html).
 4. [Wikipedia - After Dark software](https://en.wikipedia.org/wiki/After_Dark_(software)).
 
+## Usage
+
+In order to use this plugin, 
+
+<div><a href="https://essamatefelsherif.github.io/SptlightScreenSaver/ContextMenu.jpg" title="Ancient Egypt Theme"><img src="ContextMenu.jpg"></a></div>
+
+
 # Leaflet.themeControls
 
 A set of [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") that extend Leaflet native controls, and other additional controls, in order to customize the on-screen shape of the control as defined by the underlying css and image files provided.
