@@ -11,10 +11,11 @@ A basic Windows Screen Saver written in C using Win32 API's. The Screen Saver im
 
 ## Usage
 
-In order to use this plugin, 
-
-<p><img src="ContextMenu.jpg" alt="Context Menu" title="Context Menu"> This is an inline image XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
-
+In order to use this program, right click the executable .scr file. The following context menu will appear, where the first 3 commands () are relevant to the screen saver operation: 
+<p><img src="ContextMenu.jpg" alt="Context Menu" title="Context Menu"></p>
+* test
+* configure
+* install
 
 # Leaflet.themeControls
 
