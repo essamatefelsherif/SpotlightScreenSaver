@@ -4,6 +4,10 @@ A basic windows screensaver. Displays a digital clock centered across the virtua
 
 The desktop becomes black and parts are "illuminated" by a randomly moving light spot
 
+# References
+
+[Microsoft](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library)
+
 # Leaflet.themeControls
 
 A set of [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") that extend Leaflet native controls, and other additional controls, in order to customize the on-screen shape of the control as defined by the underlying css and image files provided.
