@@ -13,7 +13,7 @@ A basic Windows Screen Saver written in C using Win32 API's. The Screen Saver im
 
 In order to use this plugin, 
 
-<div><img src="ContextMenu.jpg"></div>
+<p><img src="ContextMenu.jpg" alt="Context Menu" title="Context Menu">This is an inline image</p>
 
 
 # Leaflet.themeControls
