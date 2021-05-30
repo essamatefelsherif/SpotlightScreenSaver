@@ -4,10 +4,10 @@ A basic Windows Screen Saver written in C using Win32 API's. The Screen Saver im
 
 ## References
 
-1. [Microsoft Documentation - Handling Screen Savers](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library).
-2. [Microsoft Documentation - Screen Saver command-line arguments](https://docs.microsoft.com/en-us/troubleshoot/windows/win32/screen-saver-command-line).
-3. [Writing a Win32 Screen Saver](http://esaro.se/gamla/savers/sshow.html).
-4. [Wikipedia - After Dark software](https://en.wikipedia.org/wiki/After_Dark_(software)).
+* [Microsoft Documentation - Handling Screen Savers](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library).
+* [Microsoft Documentation - Screen Saver command-line arguments](https://docs.microsoft.com/en-us/troubleshoot/windows/win32/screen-saver-command-line).
+* [Writing a Win32 Screen Saver](http://esaro.se/gamla/savers/sshow.html).
+* [Wikipedia - After Dark software](https://en.wikipedia.org/wiki/After_Dark_(software)).
 
 ## Usage
 
