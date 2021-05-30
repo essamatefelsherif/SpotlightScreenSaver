@@ -2,7 +2,7 @@
 
 A basic Windows Screen Saver written in C using Win32 API's. The Screen Saver implements the famous After Dark Screen Saver Spotlight module, where the desktop becomes dark/black and parts are "illuminated" by a randomly moving light spot. If you only have one monitor you have nothing to worry about, but those with two or more may notice oddities.
 
-# References
+## References
 
 1. [Microsoft Documentation - Handling Screen Savers](https://docs.microsoft.com/en-us/windows/win32/lwef/screen-saver-library).
 2. [Microsoft Documentation - Screen Saver command-line arguments](https://docs.microsoft.com/en-us/troubleshoot/windows/win32/screen-saver-command-line).
