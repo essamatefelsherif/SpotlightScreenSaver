@@ -25,7 +25,7 @@ In order to use this program, right click the executable .scr file. The followin
 
 ## Building
 
-This software was built using ** Microsoft Visual Studio Community 2019 | Microsoft Visual C++ 2019 **
+This software was built using **Microsoft Visual Studio Community 2019 | Microsoft Visual C++ 2019**
 
 Compiling options
 
@@ -33,7 +33,11 @@ Compiling options
 /permissive- /ifcOutput "Release\" /GS /GL /analyze- /W3 /Gy /Zc:wchar_t /Zi /Gm- /O2 /sdl /Fd"Release\vc142.pdb" /Zc:inline /fp:precise /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_UNICODE" /D "UNICODE" /errorReport:prompt /WX- /Zc:forScope /Gd /Oy- /Oi /MD /FC /Fa"Release\" /EHsc /nologo /Fo"Release\" /Fp"Release\SpotLight-ScreenSaver.pch" /diagnostics:column 
 ```
 
+Linking options
 
+```
+/OUT:"C:\Users\Essam\Documents\Visual Studio 2019 Projects\SpotLight-ScreenSaver\Release\SpotLight-ScreenSaver.scr" /MANIFEST /LTCG:incremental /NXCOMPAT /PDB:"C:\Users\Essam\Documents\Visual Studio 2019 Projects\SpotLight-ScreenSaver\Release\SpotLight-ScreenSaver.pdb" /DYNAMICBASE "kernel32.lib" "user32.lib" "gdi32.lib" "winspool.lib" "comdlg32.lib" "advapi32.lib" "shell32.lib" "ole32.lib" "oleaut32.lib" "uuid.lib" "odbc32.lib" "odbccp32.lib" /DEBUG /MACHINE:X86 /OPT:REF /SAFESEH /INCREMENTAL:NO /PGD:"C:\Users\Essam\Documents\Visual Studio 2019 Projects\SpotLight-ScreenSaver\Release\SpotLight-ScreenSaver.pgd" /SUBSYSTEM:WINDOWS /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /ManifestFile:"Release\SpotLight-ScreenSaver.scr.intermediate.manifest" /LTCGOUT:"Release\SpotLight-ScreenSaver.iobj" /OPT:ICF /ERRORREPORT:PROMPT /ILK:"Release\SpotLight-ScreenSaver.ilk" /NOLOGO /TLBID:1 
+```
 
 ## License
 
