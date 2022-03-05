@@ -23,6 +23,18 @@ In order to use this program, right click the executable .scr file. The followin
 <p><img src="img/screen-01.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
 <p><img src="img/screen-02.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
 
+## Building
+
+This software was built using ** Microsoft Visual Studio Community 2019 | Microsoft Visual C++ 2019 **
+
+Compiling options
+
+```
+/permissive- /ifcOutput "Release\" /GS /GL /analyze- /W3 /Gy /Zc:wchar_t /Zi /Gm- /O2 /sdl /Fd"Release\vc142.pdb" /Zc:inline /fp:precise /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_UNICODE" /D "UNICODE" /errorReport:prompt /WX- /Zc:forScope /Gd /Oy- /Oi /MD /FC /Fa"Release\" /EHsc /nologo /Fo"Release\" /Fp"Release\SpotLight-ScreenSaver.pch" /diagnostics:column 
+```
+
+
+
 ## License
 
 This software is licensed under the GPL license, see the LICENSE file.
