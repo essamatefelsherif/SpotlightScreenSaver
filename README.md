@@ -22,6 +22,8 @@ In order to use this program, right click the executable .scr file. The followin
 
 A set of [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") that extend Leaflet native controls, and other additional controls, in order to customize the on-screen shape of the control as defined by the underlying css and image files provided.
 
+<p><img src="screen-01.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
+
 Using [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") within a web map will enhance the user interface with a theme of cultural related icons.
 
 <div><a href="https://essamatefelsherif.github.io/Leaflet.themeControls/demo-theme-egy.html" title="Ancient Egypt Theme"><img src="img/demo_egy.png"></a></div>
