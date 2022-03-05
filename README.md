@@ -18,7 +18,7 @@ In order to use this program, right click the executable .scr file. The followin
 * **Configure**: Show the Settings dialog box.
 * **Install**: Installs the Screen Saver on your system.
 
-# Leaflet.themeControls
+## Preview
 
 A set of [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") that extend Leaflet native controls, and other additional controls, in order to customize the on-screen shape of the control as defined by the underlying css and image files provided.
 
