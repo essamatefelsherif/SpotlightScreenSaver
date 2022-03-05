@@ -12,7 +12,7 @@ A basic Windows Screen Saver written in C using Win32 API's. The Screen Saver im
 ## Usage
 
 In order to use this program, right click the executable .scr file. The following context menu will appear, where the first 3 commands () are relevant to the screen saver operation: 
-<p><img src="ContextMenu.jpg" alt="Context Menu" title="Context Menu"> ... <img src="ScreenSaverSettings.jpg" alt="Context Menu" title="Context Menu"></p>
+<p><img src="img/ContextMenu.jpg" alt="Context Menu" title="Context Menu"> ... <img src="img/ScreenSaverSettings.jpg" alt="Context Menu" title="Context Menu"></p>
 
 * **Test**: Run the Screen Saver.
 * **Configure**: Show the Settings dialog box.
@@ -22,8 +22,8 @@ In order to use this program, right click the executable .scr file. The followin
 
 A set of [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") that extend Leaflet native controls, and other additional controls, in order to customize the on-screen shape of the control as defined by the underlying css and image files provided.
 
-<p><img src="screen-01.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
-<p><img src="screen-02.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
+<p><img src="img/screen-01.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
+<p><img src="img/screen-02.jpg" alt="Screen Saver Preview" title="Screen Saver Preview"></p>
 
 Using [themeControls](https://essamatefelsherif.github.io/Leaflet.themeControls/ "Demo Page") within a web map will enhance the user interface with a theme of cultural related icons.
 
